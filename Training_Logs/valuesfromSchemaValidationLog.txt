@@ -32,3 +32,29 @@
 
 2022-12-15/17:36:34		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
 
+2022-12-16/16:03:02		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:03:53		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:04:34		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:16:17		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:18:09		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:18:52		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:19:42		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:48:36		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:57:28		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:58:12		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/16:59:23		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/17:19:12		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-12-16/17:19:48		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+

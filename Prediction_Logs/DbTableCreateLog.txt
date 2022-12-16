@@ -12,3 +12,25 @@
 2022-12-15/17:35:19		Database closed successfully
 2022-12-15/17:36:50		Tables created successfully!!
 2022-12-15/17:36:50		Database closed successfully
+2022-12-16/16:03:19		Error while creating Prediction table: errors={<Host: a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:078bf476-8fd8-4cae-b294-4c3bb79daf20 asia-south1>: ConnectionException('Host has been marked down or removed',)}, last_host=a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:2b5dff71-0042-4a00-b814-b47bf092802e 
+2022-12-16/16:03:19		Database closed successfully
+2022-12-16/16:04:00		Tables created successfully!!
+2022-12-16/16:04:00		Database closed successfully
+2022-12-16/16:04:47		Tables created successfully!!
+2022-12-16/16:04:47		Database closed successfully
+2022-12-16/16:16:35		Error while creating Prediction table: errors={'a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:fbc7ccc4-3685-4cb1-a95a-44b7b6741ce8': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:fbc7ccc4-3685-4cb1-a95a-44b7b6741ce8 
+2022-12-16/16:16:35		Database closed successfully
+2022-12-16/16:18:16		Tables created successfully!!
+2022-12-16/16:18:16		Database closed successfully
+2022-12-16/16:20:00		Tables created successfully!!
+2022-12-16/16:20:00		Database closed successfully
+2022-12-16/16:48:53		Error while creating Prediction table: errors={<Host: a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:078bf476-8fd8-4cae-b294-4c3bb79daf20 asia-south1>: ConnectionException('Host has been marked down or removed',)}, last_host=a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:2b5dff71-0042-4a00-b814-b47bf092802e 
+2022-12-16/16:48:53		Database closed successfully
+2022-12-16/16:57:35		Tables created successfully!!
+2022-12-16/16:57:36		Database closed successfully
+2022-12-16/17:00:02		Error while creating Prediction table: errors={'a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:fbc7ccc4-3685-4cb1-a95a-44b7b6741ce8': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:fbc7ccc4-3685-4cb1-a95a-44b7b6741ce8 
+2022-12-16/17:00:02		Database closed successfully
+2022-12-16/17:19:22		Tables created successfully!!
+2022-12-16/17:19:22		Database closed successfully
+2022-12-16/17:20:09		Error while creating Prediction table: errors={'a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:078bf476-8fd8-4cae-b294-4c3bb79daf20': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=a8f2e06b-718c-4c81-a27d-cfde9ee20d57-asia-south1.db.astra.datastax.com:29042:078bf476-8fd8-4cae-b294-4c3bb79daf20 
+2022-12-16/17:20:09		Database closed successfully

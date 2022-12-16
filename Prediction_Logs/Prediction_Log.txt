@@ -205,3 +205,311 @@
 2022-12-15/17:37:12		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
 2022-12-15/17:37:12		Prediction Result created
 2022-12-15/17:37:12		End of Prediction
+2022-12-16/16:03:02		Start of Validation on files for prediction!!
+2022-12-16/16:03:02		Raw Data Validation Complete!!
+2022-12-16/16:03:02		Combining all prediction files into one for database insertion
+2022-12-16/16:03:02		Combining all prediction files into one is successful
+2022-12-16/16:03:02		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:03:53		Start of Validation on files for prediction!!
+2022-12-16/16:03:53		Raw Data Validation Complete!!
+2022-12-16/16:03:53		Combining all prediction files into one for database insertion
+2022-12-16/16:03:53		Combining all prediction files into one is successful
+2022-12-16/16:03:53		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:04:00		Table creation Completed!!
+2022-12-16/16:04:00		Insertion of Data into Table started!!!!
+2022-12-16/16:04:19		Insertion in Table completed!!!
+2022-12-16/16:04:19		Deleting Good Data Folder!!!
+2022-12-16/16:04:19		Good_Data folder deleted!!!
+2022-12-16/16:04:19		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-16/16:04:19		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-16/16:04:19		Validation Operation completed!!
+2022-12-16/16:04:19		Extracting csv file from table
+2022-12-16/16:04:27		Start of Prediction
+2022-12-16/16:04:27		Entered the get_data method of the Data_Getter class
+2022-12-16/16:04:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-12-16/16:04:27		Entered into dropUnnecessaryColumns method of preprocessor class
+2022-12-16/16:04:27		Dropping of columns successful!!
+2022-12-16/16:04:27		Entered into  replaceInvalidValuesWithNull method of the Preprocessor class
+2022-12-16/16:04:27		Replacing Invalid values with Null is Successfully!!
+2022-12-16/16:04:27		Entered the is_null_present method of the Preprocessor class
+2022-12-16/16:04:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-12-16/16:04:27		Entered the impute_missing_values method of the Preprocessor class
+2022-12-16/16:04:27		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-12-16/16:04:27		Imputation of values done successfully
+2022-12-16/16:04:27		Entered the load_model method of the File_Operation class
+2022-12-16/16:04:27		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:04:27		Model loading done successfully
+2022-12-16/16:04:27		Fitting data into clusters done successfully
+2022-12-16/16:04:27		cluster column created done successfully
+2022-12-16/16:04:27		No. of clusters: 
+2022-12-16/16:04:27		Encoder loaded successfully
+2022-12-16/16:04:27		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:04:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:04:27		Entered the load_model method of the File_Operation class
+2022-12-16/16:04:27		Model File RandomForest2loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:04:27		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:04:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:04:27		Entered the load_model method of the File_Operation class
+2022-12-16/16:04:27		Model File KNN1loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:04:27		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:04:27		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:04:27		Entered the load_model method of the File_Operation class
+2022-12-16/16:04:27		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:04:27		Prediction Result created
+2022-12-16/16:04:27		End of Prediction
+2022-12-16/16:04:34		Start of Validation on files for prediction!!
+2022-12-16/16:04:34		Raw Data Validation Complete!!
+2022-12-16/16:04:34		Combining all prediction files into one for database insertion
+2022-12-16/16:04:34		Combining all prediction files into one is successful
+2022-12-16/16:04:34		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:04:47		Table creation Completed!!
+2022-12-16/16:04:47		Insertion of Data into Table started!!!!
+2022-12-16/16:05:04		Insertion in Table completed!!!
+2022-12-16/16:05:04		Deleting Good Data Folder!!!
+2022-12-16/16:05:04		Good_Data folder deleted!!!
+2022-12-16/16:05:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-16/16:05:04		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-16/16:05:04		Validation Operation completed!!
+2022-12-16/16:05:04		Extracting csv file from table
+2022-12-16/16:05:12		Start of Prediction
+2022-12-16/16:05:12		Entered the get_data method of the Data_Getter class
+2022-12-16/16:05:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-12-16/16:05:13		Entered into dropUnnecessaryColumns method of preprocessor class
+2022-12-16/16:05:13		Dropping of columns successful!!
+2022-12-16/16:05:13		Entered into  replaceInvalidValuesWithNull method of the Preprocessor class
+2022-12-16/16:05:13		Replacing Invalid values with Null is Successfully!!
+2022-12-16/16:05:13		Entered the is_null_present method of the Preprocessor class
+2022-12-16/16:05:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-12-16/16:05:13		Entered the impute_missing_values method of the Preprocessor class
+2022-12-16/16:05:13		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-12-16/16:05:13		Imputation of values done successfully
+2022-12-16/16:05:13		Entered the load_model method of the File_Operation class
+2022-12-16/16:05:13		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:05:13		Model loading done successfully
+2022-12-16/16:05:13		Fitting data into clusters done successfully
+2022-12-16/16:05:13		cluster column created done successfully
+2022-12-16/16:05:13		No. of clusters: 
+2022-12-16/16:05:13		Encoder loaded successfully
+2022-12-16/16:05:13		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:05:13		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:05:13		Entered the load_model method of the File_Operation class
+2022-12-16/16:05:13		Model File RandomForest2loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:05:13		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:05:13		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:05:13		Entered the load_model method of the File_Operation class
+2022-12-16/16:05:13		Model File KNN1loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:05:13		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:05:13		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:05:13		Entered the load_model method of the File_Operation class
+2022-12-16/16:05:13		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:05:13		Prediction Result created
+2022-12-16/16:05:13		End of Prediction
+2022-12-16/16:16:17		Start of Validation on files for prediction!!
+2022-12-16/16:16:18		Raw Data Validation Complete!!
+2022-12-16/16:16:18		Combining all prediction files into one for database insertion
+2022-12-16/16:16:18		Combining all prediction files into one is successful
+2022-12-16/16:16:18		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:18:09		Start of Validation on files for prediction!!
+2022-12-16/16:18:09		Raw Data Validation Complete!!
+2022-12-16/16:18:09		Combining all prediction files into one for database insertion
+2022-12-16/16:18:09		Combining all prediction files into one is successful
+2022-12-16/16:18:09		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:18:16		Table creation Completed!!
+2022-12-16/16:18:16		Insertion of Data into Table started!!!!
+2022-12-16/16:18:32		Insertion in Table completed!!!
+2022-12-16/16:18:32		Deleting Good Data Folder!!!
+2022-12-16/16:18:32		Good_Data folder deleted!!!
+2022-12-16/16:18:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-16/16:18:32		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-16/16:18:32		Validation Operation completed!!
+2022-12-16/16:18:32		Extracting csv file from table
+2022-12-16/16:18:40		Start of Prediction
+2022-12-16/16:18:40		Entered the get_data method of the Data_Getter class
+2022-12-16/16:18:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-12-16/16:18:40		Entered into dropUnnecessaryColumns method of preprocessor class
+2022-12-16/16:18:40		Dropping of columns successful!!
+2022-12-16/16:18:40		Entered into  replaceInvalidValuesWithNull method of the Preprocessor class
+2022-12-16/16:18:40		Replacing Invalid values with Null is Successfully!!
+2022-12-16/16:18:40		Entered the is_null_present method of the Preprocessor class
+2022-12-16/16:18:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-12-16/16:18:40		Entered the impute_missing_values method of the Preprocessor class
+2022-12-16/16:18:40		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-12-16/16:18:40		Imputation of values done successfully
+2022-12-16/16:18:40		Entered the load_model method of the File_Operation class
+2022-12-16/16:18:40		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:18:40		Model loading done successfully
+2022-12-16/16:18:40		Fitting data into clusters done successfully
+2022-12-16/16:18:40		cluster column created done successfully
+2022-12-16/16:18:40		No. of clusters: 
+2022-12-16/16:18:40		Encoder loaded successfully
+2022-12-16/16:18:40		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:18:40		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:18:40		Entered the load_model method of the File_Operation class
+2022-12-16/16:18:40		Model File RandomForest2loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:18:40		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:18:40		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:18:40		Entered the load_model method of the File_Operation class
+2022-12-16/16:18:40		Model File KNN1loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:18:40		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:18:40		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:18:40		Entered the load_model method of the File_Operation class
+2022-12-16/16:18:40		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:18:40		Prediction Result created
+2022-12-16/16:18:40		End of Prediction
+2022-12-16/16:18:52		Start of Validation on files for prediction!!
+2022-12-16/16:19:42		Start of Validation on files for prediction!!
+2022-12-16/16:19:42		Raw Data Validation Complete!!
+2022-12-16/16:19:42		Combining all prediction files into one for database insertion
+2022-12-16/16:19:42		Combining all prediction files into one is successful
+2022-12-16/16:19:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:20:00		Table creation Completed!!
+2022-12-16/16:20:00		Insertion of Data into Table started!!!!
+2022-12-16/16:20:15		Insertion in Table completed!!!
+2022-12-16/16:20:15		Deleting Good Data Folder!!!
+2022-12-16/16:20:15		Good_Data folder deleted!!!
+2022-12-16/16:20:15		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-16/16:20:15		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-16/16:20:15		Validation Operation completed!!
+2022-12-16/16:20:15		Extracting csv file from table
+2022-12-16/16:20:23		Start of Prediction
+2022-12-16/16:20:23		Entered the get_data method of the Data_Getter class
+2022-12-16/16:20:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-12-16/16:20:23		Entered into dropUnnecessaryColumns method of preprocessor class
+2022-12-16/16:20:23		Dropping of columns successful!!
+2022-12-16/16:20:23		Entered into  replaceInvalidValuesWithNull method of the Preprocessor class
+2022-12-16/16:20:23		Replacing Invalid values with Null is Successfully!!
+2022-12-16/16:20:23		Entered the is_null_present method of the Preprocessor class
+2022-12-16/16:20:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-12-16/16:20:23		Entered the impute_missing_values method of the Preprocessor class
+2022-12-16/16:20:23		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-12-16/16:20:23		Imputation of values done successfully
+2022-12-16/16:20:23		Entered the load_model method of the File_Operation class
+2022-12-16/16:20:23		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:20:23		Model loading done successfully
+2022-12-16/16:20:23		Fitting data into clusters done successfully
+2022-12-16/16:20:23		cluster column created done successfully
+2022-12-16/16:20:23		No. of clusters: 
+2022-12-16/16:20:23		Encoder loaded successfully
+2022-12-16/16:20:23		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:20:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:20:23		Entered the load_model method of the File_Operation class
+2022-12-16/16:20:23		Model File RandomForest2loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:20:23		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:20:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:20:23		Entered the load_model method of the File_Operation class
+2022-12-16/16:20:23		Model File KNN1loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:20:23		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:20:23		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:20:23		Entered the load_model method of the File_Operation class
+2022-12-16/16:20:23		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:20:23		Prediction Result created
+2022-12-16/16:20:23		End of Prediction
+2022-12-16/16:48:36		Start of Validation on files for prediction!!
+2022-12-16/16:48:36		Raw Data Validation Complete!!
+2022-12-16/16:48:36		Combining all prediction files into one for database insertion
+2022-12-16/16:48:36		Combining all prediction files into one is successful
+2022-12-16/16:48:36		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:57:28		Start of Validation on files for prediction!!
+2022-12-16/16:57:28		Raw Data Validation Complete!!
+2022-12-16/16:57:28		Combining all prediction files into one for database insertion
+2022-12-16/16:57:28		Combining all prediction files into one is successful
+2022-12-16/16:57:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/16:57:36		Table creation Completed!!
+2022-12-16/16:57:36		Insertion of Data into Table started!!!!
+2022-12-16/16:57:53		Insertion in Table completed!!!
+2022-12-16/16:57:53		Deleting Good Data Folder!!!
+2022-12-16/16:57:53		Good_Data folder deleted!!!
+2022-12-16/16:57:53		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-16/16:57:53		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-16/16:57:53		Validation Operation completed!!
+2022-12-16/16:57:53		Extracting csv file from table
+2022-12-16/16:58:01		Start of Prediction
+2022-12-16/16:58:01		Entered the get_data method of the Data_Getter class
+2022-12-16/16:58:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-12-16/16:58:01		Entered into dropUnnecessaryColumns method of preprocessor class
+2022-12-16/16:58:01		Dropping of columns successful!!
+2022-12-16/16:58:01		Entered into  replaceInvalidValuesWithNull method of the Preprocessor class
+2022-12-16/16:58:01		Replacing Invalid values with Null is Successfully!!
+2022-12-16/16:58:01		Entered the is_null_present method of the Preprocessor class
+2022-12-16/16:58:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-12-16/16:58:01		Entered the impute_missing_values method of the Preprocessor class
+2022-12-16/16:58:01		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-12-16/16:58:01		Imputation of values done successfully
+2022-12-16/16:58:01		Entered the load_model method of the File_Operation class
+2022-12-16/16:58:01		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:58:01		Model loading done successfully
+2022-12-16/16:58:01		Fitting data into clusters done successfully
+2022-12-16/16:58:01		cluster column created done successfully
+2022-12-16/16:58:01		No. of clusters: 
+2022-12-16/16:58:01		Encoder loaded successfully
+2022-12-16/16:58:01		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:58:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:58:01		Entered the load_model method of the File_Operation class
+2022-12-16/16:58:01		Model File RandomForest2loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:58:01		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:58:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:58:01		Entered the load_model method of the File_Operation class
+2022-12-16/16:58:01		Model File KNN1loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:58:01		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/16:58:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/16:58:01		Entered the load_model method of the File_Operation class
+2022-12-16/16:58:01		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/16:58:01		Prediction Result created
+2022-12-16/16:58:01		End of Prediction
+2022-12-16/16:59:23		Start of Validation on files for prediction!!
+2022-12-16/16:59:23		Raw Data Validation Complete!!
+2022-12-16/16:59:23		Combining all prediction files into one for database insertion
+2022-12-16/16:59:23		Combining all prediction files into one is successful
+2022-12-16/16:59:23		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/17:19:12		Start of Validation on files for prediction!!
+2022-12-16/17:19:12		Raw Data Validation Complete!!
+2022-12-16/17:19:12		Combining all prediction files into one for database insertion
+2022-12-16/17:19:12		Combining all prediction files into one is successful
+2022-12-16/17:19:12		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-12-16/17:19:22		Table creation Completed!!
+2022-12-16/17:19:22		Insertion of Data into Table started!!!!
+2022-12-16/17:19:38		Insertion in Table completed!!!
+2022-12-16/17:19:38		Deleting Good Data Folder!!!
+2022-12-16/17:19:38		Good_Data folder deleted!!!
+2022-12-16/17:19:38		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-16/17:19:38		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-16/17:19:38		Validation Operation completed!!
+2022-12-16/17:19:38		Extracting csv file from table
+2022-12-16/17:19:46		Start of Prediction
+2022-12-16/17:19:46		Entered the get_data method of the Data_Getter class
+2022-12-16/17:19:46		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-12-16/17:19:46		Entered into dropUnnecessaryColumns method of preprocessor class
+2022-12-16/17:19:46		Dropping of columns successful!!
+2022-12-16/17:19:46		Entered into  replaceInvalidValuesWithNull method of the Preprocessor class
+2022-12-16/17:19:46		Replacing Invalid values with Null is Successfully!!
+2022-12-16/17:19:46		Entered the is_null_present method of the Preprocessor class
+2022-12-16/17:19:46		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-12-16/17:19:46		Entered the impute_missing_values method of the Preprocessor class
+2022-12-16/17:19:46		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-12-16/17:19:46		Imputation of values done successfully
+2022-12-16/17:19:46		Entered the load_model method of the File_Operation class
+2022-12-16/17:19:46		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-16/17:19:46		Model loading done successfully
+2022-12-16/17:19:46		Fitting data into clusters done successfully
+2022-12-16/17:19:46		cluster column created done successfully
+2022-12-16/17:19:46		No. of clusters: 
+2022-12-16/17:19:46		Encoder loaded successfully
+2022-12-16/17:19:46		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/17:19:46		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/17:19:46		Entered the load_model method of the File_Operation class
+2022-12-16/17:19:46		Model File RandomForest2loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/17:19:46		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/17:19:46		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/17:19:46		Entered the load_model method of the File_Operation class
+2022-12-16/17:19:46		Model File KNN1loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/17:19:46		Entered the find_correct_model_file method of the File_Operation class
+2022-12-16/17:19:46		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-16/17:19:46		Entered the load_model method of the File_Operation class
+2022-12-16/17:19:46		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-16/17:19:46		Prediction Result created
+2022-12-16/17:19:46		End of Prediction
+2022-12-16/17:19:48		Start of Validation on files for prediction!!
+2022-12-16/17:19:49		Raw Data Validation Complete!!
+2022-12-16/17:19:49		Combining all prediction files into one for database insertion
+2022-12-16/17:19:49		Combining all prediction files into one is successful
+2022-12-16/17:19:49		Creating Prediction_Database and tables on the basis of given schema!!!

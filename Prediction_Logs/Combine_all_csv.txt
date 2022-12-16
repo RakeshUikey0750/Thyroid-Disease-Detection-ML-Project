@@ -47,3 +47,87 @@
 2022-12-15/17:36:34		Adding serial column at zero'th  pos. is successful
 2022-12-15/17:36:34		Directory change at project file level is successful
 2022-12-15/17:36:34		Creation of combined_csv.csv file is successful
+2022-12-16/16:03:02		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:03:02		GoodFile path created successfully
+2022-12-16/16:03:02		list of all csv file created successfully
+2022-12-16/16:03:02		Combining all csv file is  successful
+2022-12-16/16:03:02		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:03:02		Directory change at project file level is successful
+2022-12-16/16:03:02		Creation of combined_csv.csv file is successful
+2022-12-16/16:03:53		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:03:53		GoodFile path created successfully
+2022-12-16/16:03:53		list of all csv file created successfully
+2022-12-16/16:03:53		Combining all csv file is  successful
+2022-12-16/16:03:53		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:03:53		Directory change at project file level is successful
+2022-12-16/16:03:53		Creation of combined_csv.csv file is successful
+2022-12-16/16:04:34		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:04:34		GoodFile path created successfully
+2022-12-16/16:04:34		list of all csv file created successfully
+2022-12-16/16:04:34		Combining all csv file is  successful
+2022-12-16/16:04:34		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:04:34		Directory change at project file level is successful
+2022-12-16/16:04:34		Creation of combined_csv.csv file is successful
+2022-12-16/16:16:18		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:16:18		GoodFile path created successfully
+2022-12-16/16:16:18		list of all csv file created successfully
+2022-12-16/16:16:18		Combining all csv file is  successful
+2022-12-16/16:16:18		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:16:18		Directory change at project file level is successful
+2022-12-16/16:16:18		Creation of combined_csv.csv file is successful
+2022-12-16/16:18:09		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:18:09		GoodFile path created successfully
+2022-12-16/16:18:09		list of all csv file created successfully
+2022-12-16/16:18:09		Combining all csv file is  successful
+2022-12-16/16:18:09		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:18:09		Directory change at project file level is successful
+2022-12-16/16:18:09		Creation of combined_csv.csv file is successful
+2022-12-16/16:19:42		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:19:42		GoodFile path created successfully
+2022-12-16/16:19:42		list of all csv file created successfully
+2022-12-16/16:19:42		Combining all csv file is  successful
+2022-12-16/16:19:42		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:19:42		Directory change at project file level is successful
+2022-12-16/16:19:42		Creation of combined_csv.csv file is successful
+2022-12-16/16:48:36		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:48:36		GoodFile path created successfully
+2022-12-16/16:48:36		list of all csv file created successfully
+2022-12-16/16:48:36		Combining all csv file is  successful
+2022-12-16/16:48:36		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:48:36		Directory change at project file level is successful
+2022-12-16/16:48:36		Creation of combined_csv.csv file is successful
+2022-12-16/16:57:28		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:57:28		GoodFile path created successfully
+2022-12-16/16:57:28		list of all csv file created successfully
+2022-12-16/16:57:28		Combining all csv file is  successful
+2022-12-16/16:57:28		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:57:28		Directory change at project file level is successful
+2022-12-16/16:57:28		Creation of combined_csv.csv file is successful
+2022-12-16/16:58:12		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:58:12		GoodFile path created successfully
+2022-12-16/16:58:12		list of all csv file created successfully
+2022-12-16/16:58:12		Combining all csv file is  successful
+2022-12-16/16:58:12		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:58:12		Directory change at project file level is successful
+2022-12-16/16:58:12		Creation of combined_csv.csv file is successful
+2022-12-16/16:59:23		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/16:59:23		GoodFile path created successfully
+2022-12-16/16:59:23		list of all csv file created successfully
+2022-12-16/16:59:23		Combining all csv file is  successful
+2022-12-16/16:59:23		Adding serial column at zero'th  pos. is successful
+2022-12-16/16:59:23		Directory change at project file level is successful
+2022-12-16/16:59:23		Creation of combined_csv.csv file is successful
+2022-12-16/17:19:12		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/17:19:12		GoodFile path created successfully
+2022-12-16/17:19:12		list of all csv file created successfully
+2022-12-16/17:19:12		Combining all csv file is  successful
+2022-12-16/17:19:12		Adding serial column at zero'th  pos. is successful
+2022-12-16/17:19:12		Directory change at project file level is successful
+2022-12-16/17:19:12		Creation of combined_csv.csv file is successful
+2022-12-16/17:19:49		Entered into the combine_all_csv of the csv_operations class
+2022-12-16/17:19:49		GoodFile path created successfully
+2022-12-16/17:19:49		list of all csv file created successfully
+2022-12-16/17:19:49		Combining all csv file is  successful
+2022-12-16/17:19:49		Adding serial column at zero'th  pos. is successful
+2022-12-16/17:19:49		Directory change at project file level is successful
+2022-12-16/17:19:49		Creation of combined_csv.csv file is successful

@@ -6,3 +6,15 @@
 2022-12-15/17:35:33		Prediction Data inserted into cassandra DB successfully
 2022-12-15/17:36:57		Data insertion started
 2022-12-15/17:37:05		Prediction Data inserted into cassandra DB successfully
+2022-12-16/16:04:09		Data insertion started
+2022-12-16/16:04:19		Prediction Data inserted into cassandra DB successfully
+2022-12-16/16:04:55		Data insertion started
+2022-12-16/16:05:04		Prediction Data inserted into cassandra DB successfully
+2022-12-16/16:18:23		Data insertion started
+2022-12-16/16:18:32		Prediction Data inserted into cassandra DB successfully
+2022-12-16/16:20:06		Data insertion started
+2022-12-16/16:20:15		Prediction Data inserted into cassandra DB successfully
+2022-12-16/16:57:44		Data insertion started
+2022-12-16/16:57:53		Prediction Data inserted into cassandra DB successfully
+2022-12-16/17:19:29		Data insertion started
+2022-12-16/17:19:38		Prediction Data inserted into cassandra DB successfully

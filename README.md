@@ -27,17 +27,16 @@ disease or not.
 - Evaluating Model
 - Flask setup
 - Push to GitHub
-- deploying
+- deployment
 
 # Snippets of Project
 
 1)Webapp Home page
 
+# Home
+[http://thyroiddiseasepredictionapp-env.eba-g8usmirb.us-west-2.elasticbeanstalk.com/](http://thyroiddiseasepredictionapp-env.eba-g8usmirb.us-west-2.elasticbeanstalk.com/)
 
-
-# Demo
-
-### Demo Video link: [https://www.youtube.com/watch?v=FSH2FkY_2QU&t=20s](https://www.youtube.com/watch?v=FSH2FkY_2QU&t=20s)
+### Demo Video link: [https://youtu.be/_puY1YhtM_s](https://youtu.be/_puY1YhtM_s)
 
 
 
@@ -71,6 +70,7 @@ Start the server
 # Authors
 
 - [@RakeshUikey0750](https://github.com/RakeshUikey0750/)
+- [Rakesh Uikey](https://www.linkedin.com/in/rakesh-uikey-40820120a/)
 
 
 # Feedback
