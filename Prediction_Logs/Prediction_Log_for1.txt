@@ -1,0 +1,16 @@
+2022-12-15/17:39:49		Start of Prediction
+2022-12-15/17:39:49		Entered the load_model method of the File_Operation class
+2022-12-15/17:39:49		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2022-12-15/17:39:49		Kmeans model loaded
+2022-12-15/17:39:49		Label encoder loaded
+2022-12-15/17:39:49		Clusters created successfully
+2022-12-15/17:39:49		Finding best model for clusters
+2022-12-15/17:39:49		Entered the find_correct_model_file method of the File_Operation class
+2022-12-15/17:39:49		Exited the find_correct_model_file method of the Model_Finder class.
+2022-12-15/17:39:49		Loading model for prediction
+2022-12-15/17:39:49		Entered the load_model method of the File_Operation class
+2022-12-15/17:39:49		Model File RandomForest0loaded. Exited the load_model method of the Model_Finder class
+2022-12-15/17:39:49		Loaded model for prediction
+2022-12-15/17:39:49		Prediction is Ready
+2022-12-15/17:39:49		Performing inverse transformation for prediction
+2022-12-15/17:39:49		Prediction successfully done!!

@@ -1,0 +1,43 @@
+2022-12-15/16:06:24		Start of Validation on files for Training!!
+2022-12-15/16:06:25		Raw Data Validation Complete!!
+2022-12-15/16:06:25		Combining all Training Batch files into one for database insertion
+2022-12-15/16:06:25		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'log_writer'
+2022-12-15/16:29:40		Start of Validation on files for Training!!
+2022-12-15/16:29:41		Raw Data Validation Complete!!
+2022-12-15/16:29:41		Combining all Training Batch files into one for database insertion
+2022-12-15/16:29:41		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'log_writer'
+2022-12-15/16:29:58		Start of Validation on files for Training!!
+2022-12-15/16:29:59		Raw Data Validation Complete!!
+2022-12-15/16:29:59		Combining all Training Batch files into one for database insertion
+2022-12-15/16:29:59		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'file_object'
+2022-12-15/16:33:23		Start of Validation on files for Training!!
+2022-12-15/16:33:24		Raw Data Validation Complete!!
+2022-12-15/16:33:24		Combining all Training Batch files into one for database insertion
+2022-12-15/16:33:24		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'file_object'
+2022-12-15/16:47:27		Start of Validation on files for Training!!
+2022-12-15/16:47:28		Raw Data Validation Complete!!
+2022-12-15/16:47:28		Combining all Training Batch files into one for database insertion
+2022-12-15/16:47:28		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'logger'
+2022-12-15/16:53:48		Start of Validation on files for Training!!
+2022-12-15/16:53:48		Raw Data Validation Complete!!
+2022-12-15/16:53:48		Combining all Training Batch files into one for database insertion
+2022-12-15/16:53:48		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'logger'
+2022-12-15/16:57:03		Start of Validation on files for Training!!
+2022-12-15/16:57:03		Raw Data Validation Complete!!
+2022-12-15/16:57:03		Combining all Training Batch files into one for database insertion
+2022-12-15/16:57:03		Error occurred while validating training file: %s'csv_Operations' object has no attribute 'logger'
+2022-12-15/17:13:05		Start of Validation on files for Training!!
+2022-12-15/17:13:06		Raw Data Validation Complete!!
+2022-12-15/17:13:06		Combining all Training Batch files into one for database insertion
+2022-12-15/17:13:06		Combining all Training files into one is successful
+2022-12-15/17:13:06		Creating Training_Database and tables on the basis of given schema!!!
+2022-12-15/17:13:13		Table creation Completed!!
+2022-12-15/17:13:13		Insertion of Data into Table started!!!!
+2022-12-15/17:15:16		Insertion in Table completed!!!
+2022-12-15/17:15:16		Deleting Good Data Folder!!!
+2022-12-15/17:15:16		Good_Data folder deleted!!!
+2022-12-15/17:15:16		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-12-15/17:15:16		Bad files moved to archive!! Bad folder Deleted!!
+2022-12-15/17:15:16		Validation Operation completed!!
+2022-12-15/17:15:16		Extracting csv file from table
+2022-12-15/17:15:23		Validation of Training completed successfully!!

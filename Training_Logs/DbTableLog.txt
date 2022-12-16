@@ -1,0 +1,2 @@
+2022-12-15/17:13:13		Tables created successfully!!
+2022-12-15/17:13:13		Database closed successfully!!

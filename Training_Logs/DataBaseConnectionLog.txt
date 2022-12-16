@@ -1,0 +1,3 @@
+2022-12-15/17:13:12		 Cassandra database connected successfully
+2022-12-15/17:13:21		 Cassandra database connected successfully
+2022-12-15/17:15:22		 Cassandra database connected successfully

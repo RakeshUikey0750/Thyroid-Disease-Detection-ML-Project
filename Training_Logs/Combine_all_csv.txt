@@ -1,0 +1,25 @@
+2022-12-15/16:29:59		Entered into the combine_all_csv of the csv_operations class
+2022-12-15/16:29:59		GoodFile path created successfully
+2022-12-15/16:29:59		list of all csv file created successfully
+2022-12-15/16:29:59		Combining all csv file is  successful
+2022-12-15/16:29:59		Adding serial column at zero'th  pos. is successful
+2022-12-15/16:29:59		Directory change at project file level is successful
+2022-12-15/16:29:59		Creation of combined_csv.csv file is successful
+2022-12-15/16:29:59		Error occurred while combining_all_csv files: 'csv_Operations' object has no attribute 'file_object'
+2022-12-15/16:29:59		Unable to load all csv files into one .Exited the combine_all_csv method of csv operations class
+2022-12-15/16:33:24		Entered into the combine_all_csv of the csv_operations class
+2022-12-15/16:33:24		GoodFile path created successfully
+2022-12-15/16:33:24		list of all csv file created successfully
+2022-12-15/16:33:24		Combining all csv file is  successful
+2022-12-15/16:33:24		Adding serial column at zero'th  pos. is successful
+2022-12-15/16:33:24		Directory change at project file level is successful
+2022-12-15/16:33:24		Creation of combined_csv.csv file is successful
+2022-12-15/16:33:24		Error occurred while combining_all_csv files: 'csv_Operations' object has no attribute 'file_object'
+2022-12-15/16:33:24		Unable to load all csv files into one .Exited the combine_all_csv method of csv operations class
+2022-12-15/17:13:06		Entered into the combine_all_csv of the csv_operations class
+2022-12-15/17:13:06		GoodFile path created successfully
+2022-12-15/17:13:06		list of all csv file created successfully
+2022-12-15/17:13:06		Combining all csv file is  successful
+2022-12-15/17:13:06		Adding serial column at zero'th  pos. is successful
+2022-12-15/17:13:06		Directory change at project file level is successful
+2022-12-15/17:13:06		Creation of combined_csv.csv file is successful

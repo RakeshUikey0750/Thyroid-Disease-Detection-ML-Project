@@ -1,0 +1,15 @@
+2022-12-15/16:20:47		 Cassandra  Prediction database connected successfully
+2022-12-15/16:21:42		 Cassandra  Prediction database connected successfully
+2022-12-15/16:21:50		 Cassandra  Prediction database connected successfully
+2022-12-15/16:22:06		 Cassandra  Prediction database connected successfully
+2022-12-15/16:54:09		 Cassandra  Prediction database connected successfully
+2022-12-15/17:21:34		 Cassandra  Prediction database connected successfully
+2022-12-15/17:21:43		 Cassandra  Prediction database connected successfully
+2022-12-15/17:21:59		 Cassandra  Prediction database connected successfully
+2022-12-15/17:33:37		 Cassandra  Prediction database connected successfully
+2022-12-15/17:35:18		 Cassandra  Prediction database connected successfully
+2022-12-15/17:35:25		 Cassandra  Prediction database connected successfully
+2022-12-15/17:35:39		 Cassandra  Prediction database connected successfully
+2022-12-15/17:36:41		 Cassandra  Prediction database connected successfully
+2022-12-15/17:36:57		 Cassandra  Prediction database connected successfully
+2022-12-15/17:37:11		 Cassandra  Prediction database connected successfully

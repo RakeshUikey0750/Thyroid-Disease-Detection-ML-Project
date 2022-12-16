@@ -1,0 +1,2 @@
+2022-12-15/17:13:21		Data insertion started
+2022-12-15/17:15:16		Data inserted into cassandra DB successfully
