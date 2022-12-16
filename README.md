@@ -13,7 +13,7 @@ disease or not.
 
 
 [You can reach the application here] 
-[https://thyroiddiseaseprediction.herokuapp.com/](https://thyroiddiseaseprediction.herokuapp.com/)
+[http://thyroiddiseasepredictionapp-env.eba-g8usmirb.us-west-2.elasticbeanstalk.com/](http://thyroiddiseasepredictionapp-env.eba-g8usmirb.us-west-2.elasticbeanstalk.com/)
 
 
 
